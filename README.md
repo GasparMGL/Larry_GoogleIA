@@ -1,26 +1,23 @@
-# Larry_GoogleIA
+## ⚖️  Larry, o Chatbot Jurídico  🇧🇷
 
-## Chatbot Jurídico com Google Gemini
-Este projeto implementa um chatbot jurídico interativo utilizando o poder do Google Gemini, um modelo de linguagem avançado. Nosso chatbot, chamado Larry, fornece informações sobre leis, direitos e deveres do cidadão brasileiro de forma acessível e organizada.
+**Converse com Larry, seu assistente jurídico virtual, e tire suas dúvidas sobre leis, direitos e deveres do cidadão brasileiro de forma simples e acessível!** 
 
-## Funcionalidades:
-Conversa interativa: Converse com Larry como se estivesse em um chat, fazendo perguntas sobre temas jurídicos.
-Informações precisas: Larry foi instruído a fornecer informações corretas e relevantes, incluindo a citação de leis e seus números.
-Formato amigável: As respostas de Larry são formatadas em Markdown e exibidas como HTML, proporcionando uma experiência de leitura agradável.
-Personalização: O chatbot pergunta o seu nome e o utiliza durante a conversa, tornando a interação mais pessoal.
-Foco jurídico: Larry foi treinado para se concentrar em assuntos jurídicos. Se você tentar mudar de assunto, ele irá gentilmente redirecionar a conversa.
+[![GitHub stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=social)](https://github.com/seu-usuario/seu-repositorio)
 
-## Como usar:
-Clone o repositório: git clone https://github.com/seu-usuario/seu-repositorio
-Instale as dependências: pip install -r requirements.txt
-Obtenha sua API Key do Google Gemini: https://developers.google.com/generative-ai
-Insira sua API Key no código: Substitua "Sua API key" pela sua chave real.
-Execute o chatbot: python chatbot.py
+## 💡  Sobre o Projeto
 
-## Contribuições:
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
+Este projeto utiliza o poder do **Google Gemini**, um modelo de linguagem avançado, para criar um chatbot jurídico interativo em português. Larry foi treinado para fornecer informações relevantes sobre as leis brasileiras, ajudando você a entender seus direitos e deveres como cidadão. 
 
-## Observações:
-Este projeto é apenas para fins informativos. As informações fornecidas por Larry não devem ser interpretadas como aconselhamento jurídico profissional.
-O uso da API do Google Gemini está sujeito aos termos de serviço da Google.
-Divirta-se conversando com Larry e aprendendo sobre seus direitos e deveres!
+## ✨  Funcionalidades
+
+* **Conversa interativa:** Converse com Larry como se estivesse em um chat, fazendo perguntas sobre temas jurídicos.
+* **Informações precisas:** Larry foi instruído a fornecer informações corretas e relevantes, incluindo a citação de leis e seus números.
+* **Formato amigável:** As respostas de Larry são formatadas em Markdown e exibidas como HTML, proporcionando uma experiência de leitura agradável.
+* **Personalização:** Larry perguntará seu nome e o utilizará durante a conversa, tornando a interação mais pessoal.
+* **Foco jurídico:** Larry foi treinado para se concentrar em assuntos jurídicos. Se você tentar mudar de assunto, ele irá gentilmente redirecionar a conversa.
+
+## 🚀  Como Usar
+
+1. **Clone o repositório:** 
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio
