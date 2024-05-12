@@ -18,6 +18,15 @@ Este projeto utiliza o poder do **Google Gemini**, um modelo de linguagem avanç
 
 ## 🚀  Como Usar
 
-1. **Clone o repositório:** 
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio
+* Clone este repositório para sua máquina local.
+* Instale as bibliotecas necessárias, como `google-generativeai`, `ipython`, `textwrap` e `markdown`.
+* Configure sua chave de API do Google Gemini no código. 
+* Execute o script Python em um ambiente compatível.
+
+**Contribuições:**
+
+Sinta-se à vontade para contribuir com este projeto! Se você tiver sugestões de melhorias, correções de bugs ou novas funcionalidades, envie um pull request.
+
+**Explore o mundo jurídico com Larry!** 
+
+---
